@@ -1,0 +1,5 @@
+INFO: Server started
+ERROR: Database failed
+INFO: Running process
+ERROR: Timeout occurred
+ERROR: Connection lost
